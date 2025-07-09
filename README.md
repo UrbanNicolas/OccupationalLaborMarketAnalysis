@@ -19,6 +19,7 @@
 - <b>Google Slides</b>
 - <b>IPUMS USA, IPUMS CPS, & O*NET OnLine (for data collection)</b>
 
-<h2>[Full Report](https://github.com/UrbanNicolas/OccupationalLaborMarketAnalysis/OccupationalAnalysisReport.pdf)</h2>
+<h2>Full Occupational Analysis Report</h2>
+- [Document](https://github.com/UrbanNicolas/OccupationalLaborMarketAnalysis)
 
 
