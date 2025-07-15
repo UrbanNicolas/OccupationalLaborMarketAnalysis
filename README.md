@@ -21,6 +21,6 @@
 
 <h2>Occupational Analysis Report</h2>
 
-- [Full Report](https://github.com/UrbanNicolas/OccupationalLaborMarketAnalysis/blob/main/OccupationalAnalysisReport.pdf)
+- [Full Report](https://github.com/UrbanNicolas/OccupationalLaborMarketAnalysis/blob/main/Occupational%20Analysis%20Report.pdf)
 
 
